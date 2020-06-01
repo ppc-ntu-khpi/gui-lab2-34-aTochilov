@@ -18,4 +18,5 @@
 ### About app
 
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-aTochilov/blob/master/MatisseAbout.jpg" width="50%"/>
+
 </p>
